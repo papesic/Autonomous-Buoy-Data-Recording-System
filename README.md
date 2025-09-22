@@ -1,5 +1,6 @@
 # Autonomous Buoy Data Recording System
 **June 2024 version**
+--
 An end-to-end IoT platform for **environmental data collection at sea** using an ESP32-based buoy node and a Flask + MQTT server.
 
 The system is designed for research and prototyping of **autonomous sail buoys**.  
